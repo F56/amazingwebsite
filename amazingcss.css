@@ -30,7 +30,7 @@ body {
 .profile .avatar {
   border-radius: 100%;
   border: solid 5px #fff;
-  background-image: url("../img/photo.png");
+  background-image: url("photo.png");
   
   background-repeat: no-repeat;
   background-size: contain;
